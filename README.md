@@ -33,3 +33,15 @@
 - [x] 2.14 Conditionals part Two
 - [x] 2.15 Conditionals part Three
 - [x] 2.16 Recap
+
+### 3.[2021 UPDATE] JAVASCRIPT ON THE BROWSER
+
+- [ ] 3.0 The Document Object
+- [ ] 3.1 HTML in Javascript
+- [ ] 3.2 Searching For Elements
+- [ ] 3.3 Events
+- [ ] 3.4 Events part Two
+- [ ] 3.5 More Events
+- [ ] 3.6 CSS in Javascript
+- [ ] 3.7 CSS in Javascript part Two
+- [ ] 3.8 CSS in Javascript part Three
