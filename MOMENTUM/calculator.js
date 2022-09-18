@@ -7,7 +7,7 @@ const calculator = {
   },
 
   multiplication: function (a, b) {
-    console.log(a * b);
+    console.log(a ** b);
   },
 
   division: function (a, b) {
