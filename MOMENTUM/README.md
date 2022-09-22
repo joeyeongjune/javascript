@@ -58,3 +58,14 @@
 - [x] 4.7 Super Recap
 
 ### 5.[2021 UPDATE] CLOCK
+
+- [x] 5.0 Intervals
+- [x] 5.1 Timeouts and Dates
+- [x] 5.2 PadStart
+- [x] 5.3. Recap
+
+### 6.[2021 UPDATE] QUOTES AND BACKGROUND
+
+- [x] 6.0 Quotes
+- [ ] 6.1 Background
+- [ ] 6.2 Recap
