@@ -67,5 +67,24 @@
 ### 6.[2021 UPDATE] QUOTES AND BACKGROUND
 
 - [x] 6.0 Quotes
-- [ ] 6.1 Background
-- [ ] 6.2 Recap
+- [x] 6.1 Background
+
+  - Math 객체 기능
+  - Math.random() 0부터 1사이 무작위의 값을 반환해줌
+  - Math.floor() 내림
+  - Math.ceil() 올림
+  - Math.round() 반올림
+  - JS에서 html 요소 생성
+  - createElement(" ")
+  - 예) document.createElement("img") 일 경우 html 내에 img 태그를 생성
+  - appendChild() //함수 안의 경로에 정의한 값을 가장 뒤에서 기입
+  - prepand() //반대로 앞에서 기입
+
+- [x] 6.2 Recap
+
+### 7.[2021 UPDATE] TO DO LIST
+
+- [x] 7.0 Setup
+- [x] 7.1 Adding ToDos
+- [x] 7.2 Deleting To Dos
+- [ ] 7.3 Saving To Dos
