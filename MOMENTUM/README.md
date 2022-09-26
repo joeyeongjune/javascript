@@ -87,4 +87,13 @@
 - [x] 7.0 Setup
 - [x] 7.1 Adding ToDos
 - [x] 7.2 Deleting To Dos
-- [ ] 7.3 Saving To Dos
+- [x] 7.3 Saving To Dos
+  - localStorage
+  - JSON.stringify
+- [x] 7.4 Loding To Dos part One
+- [x] 7.5 Loding To Dos part Two
+- [x] 7.6 Deleting To Dos part One
+- [x] 7.7 Deleting To Dos part Two
+- [x] 7.8 Deleting To Dos part Three
+  - filter
+  - parseInt
